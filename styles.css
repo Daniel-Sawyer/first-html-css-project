@@ -1,0 +1,23 @@
+p{
+    font-size: large;
+}
+img{
+    height: 400px;
+    width: 400px;
+
+}
+
+
+
+h1{
+    font-size: large;
+    font-weight: bolder;
+    color: darkslategrey;
+    border-bottom: 30px;
+    border-color: red;
+}
+h2{
+    font-size: larger;
+    color: crimson;
+
+}
